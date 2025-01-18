@@ -51,7 +51,7 @@ int main(void) {
 
     return 0;
 }
-```
+
 ### Output
 Character: A
 String: Hello, World!
@@ -60,7 +60,7 @@ Unsigned Integer: 42
 Hexadecimal (lowercase): ff
 Hexadecimal (uppercase): FF
 Pointer: 0x7ffee4b5c9d4
-
+```
 ## FAQs
 ### Q: What format specifiers are supported?
 A: The following format specifiers are supported:
