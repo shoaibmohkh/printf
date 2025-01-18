@@ -32,7 +32,7 @@ Follow these steps to set up the `printf` project on your local machine.
 ## Usage
 Here’s how to use the `printf` function in your C programs.
 
-### Example Code
+### Example_Code
 ```c
 #include "ft_printf.h"
 
