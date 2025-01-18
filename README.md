@@ -13,8 +13,7 @@
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
-- [Example Code](#Example_Code)
+- [Example to use](#Example_Code)
 - [the format specifiers are supported](#the_format)
 ---
 
@@ -28,9 +27,6 @@ Follow these steps to set up the `printf` project on your local machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/shoaibmohkh/printf.git
-
-## Usage
-Here’s how to use the `printf` function in your C programs.
 
 ### Example_Code
 ```c
