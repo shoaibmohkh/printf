@@ -14,8 +14,8 @@
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Usage](#Usage)
-- [FAQs](#FAQs)
+- [Example Code](#Example_Code)
+- [the format specifiers are supported](#the_format)
 ---
 
 ## Installation
@@ -52,7 +52,7 @@ int main(void) {
     return 0;
 }
 
-### Output
+Output ::
 Character: A
 String: Hello, World!
 Integer: 42
@@ -61,9 +61,7 @@ Hexadecimal (lowercase): ff
 Hexadecimal (uppercase): FF
 Pointer: 0x7ffee4b5c9d4
 ```
-## FAQs
-### Q: What format specifiers are supported?
-A: The following format specifiers are supported:
+### the format specifiers are supported :
 - `%c` (character)
 - `%s` (string)
 - `%d` or `%i` (signed integer)
