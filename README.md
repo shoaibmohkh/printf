@@ -61,7 +61,7 @@ Hexadecimal (lowercase): ff
 Hexadecimal (uppercase): FF
 Pointer: 0x7ffee4b5c9d4
 ```
-### the format specifiers are supported :
+### the_format:
 - `%c` (character)
 - `%s` (string)
 - `%d` or `%i` (signed integer)
